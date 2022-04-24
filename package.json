@@ -1,0 +1,33 @@
+{
+  "//1": "Bu Altyapı Tamamen Ardééks Ve xFixxy e Aittir.",
+  "//2": "https://discord.gg/darkcodes",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Bu Altyapı Tamamen Ardééks ve xFixxy e Aittir.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "chalk": "^4.0.0",
+    "moment": "^2.26.0",
+    "jimp": "^0.12.1",
+    "quick.db": "^7.1.1",
+    "snekfetch": "^4.0.4",
+    "wio.db": "^4.0.9"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
